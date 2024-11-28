@@ -36,6 +36,14 @@ SHAP dependence plots were generated for the top 4 most important features (`V16
    - `V17` had a pronounced effect on fraud predictions, particularly in the range of -25 to -10.
    - The interaction with `V14` showed that high values of `V14` increased the effect of `V17` on the model's predictions.
 
+Visualizations:
+- SHAP Dependence Plots: The following visuals help explain the impact of key features on model predictions:
+  - ![SHAP Dependence Plot for Feature V16](images/SHAP_Dependence_Plot_for_Feature_V16.png)
+  - ![SHAP Dependence Plot for Feature V14](images/SHAP_Dependence_Plot_for_Feature_V14.png)
+  - ![SHAP Dependence Plot for Feature V12](images/SHAP_Dependence_Plot_for_Feature_V12.png)
+  - ![SHAP Dependence Plot for Feature V17](images/SHAP_Dependence_Plot_for_Feature_V17.png)
+- SHAP Summary Plot: ![SHAP Summary Plot](images/SHAP_summary_plot.png)
+
  Common Observations
 - Negative Feature Values: All the key features (`V16`, `V14`, `V12`, `V17`) showed that lower values led to a higher probability of fraud prediction.
 - Feature Interactions: The SHAP dependence plots indicated significant interactions between features. These interactions often amplified the contribution of the main features to the model's fraud predictions.
