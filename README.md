@@ -9,6 +9,14 @@ Project Highlights
 - Goal: Provide transparency and interpretability of model predictions to ensure trust and insight into key factors driving predictions.
 - [Read the Full Summary](xai_summary.md)
 
+Visualizations:
+- SHAP Dependence Plots: The following visuals help explain the impact of key features on model predictions:
+  - ![SHAP Dependence Plot for V16](images/shap_dependence_v16.png)
+  - ![SHAP Dependence Plot for V14](images/shap_dependence_v14.png)
+  - ![SHAP Dependence Plot for V12](images/shap_dependence_v12.png)
+  - ![SHAP Dependence Plot for V17](images/shap_dependence_v17.png)
+- SHAP Summary Plot: ![SHAP Summary Plot](images/shap_summary_plot.png)
+
 2. Other Projects
 - More projects will be added here as they are completed, highlighting key skills in data analysis, machine learning, and software development.
 
