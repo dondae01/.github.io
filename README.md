@@ -11,11 +11,11 @@ Project Highlights
 
 2.Customer Segmentation Analysis Using RFM in SQL
 
-Overview: Performed customer segmentation for a retail dataset using Recency, Frequency, and Monetary (RFM) analysis to understand customer behavior.
+- Overview: Performed customer segmentation for a retail dataset using Recency, Frequency, and Monetary (RFM) analysis to understand customer behavior.
 
-Goal: Identify key customer groups and tailor marketing strategies to maximize business value.
+- Goal: Identify key customer groups and tailor marketing strategies to maximize business value.
 
-Key Insights: Identified the most valuable customers, developed targeted marketing strategies, and analyzed customer purchase behavior.
+- Key Insights: Identified the most valuable customers, developed targeted marketing strategies, and analyzed customer purchase behavior.
 
 [Read the Full Summary](Customer_Segmentation_Analysis_in_SQL_summary.md)
 
