@@ -19,6 +19,17 @@ Project Highlights
 
 [Read the Full Summary](Customer_Segmentation_Analysis_in_SQL_summary.md)
 
+3. Crypto Market Trends Dashboard
+This Tableau dashboard visualizes cryptocurrency market trends using key metrics:
+
+- Market Cap Distribution: Ranks the top cryptocurrencies by market capitalization.
+- Price vs. 24h Volume: Highlights the relationship between price and trading volume.
+- 24h Price Change Heatmap: Shows the top gainers and losers over the last 24 hours.
+
+The dashboard provides a clear, interactive view of the crypto market’s performance.
+
+[Read the Full Summary](Crypto
+
 Other Projects
 - More projects will be added here as they are completed, highlighting key skills in data analysis, machine learning, and software development.
 
