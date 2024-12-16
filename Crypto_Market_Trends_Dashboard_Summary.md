@@ -57,8 +57,7 @@ print("Data saved successfully!")
 - Live Data:  
    Real-time data fetched via CoinGecko API.  
 
- Link to the Dashboard Screenshot  
-[View the Dashboard Screenshot](/images/dashboard_screenshot.png)
+[Link to the Dashboard Screenshot](/images/dashboard_screenshot.png)
 
  Tools Used  
 - Python: Data extraction using CoinGecko API.  
