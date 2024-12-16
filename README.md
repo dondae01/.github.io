@@ -28,7 +28,7 @@ This Tableau dashboard visualizes cryptocurrency market trends using key metrics
 
 The dashboard provides a clear, interactive view of the crypto market’s performance.
 
-[Read the Full Summary](Crypto
+[Read the Full Summary](Crypto_Market_Trends_Summary.md)
 
 Other Projects
 - More projects will be added here as they are completed, highlighting key skills in data analysis, machine learning, and software development.
